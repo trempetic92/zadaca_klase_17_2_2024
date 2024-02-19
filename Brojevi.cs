@@ -9,8 +9,7 @@ namespace zadaca_klase_17_2_2024
     public static class Brojevi
     {
 
-        //Neznam kako bi nazvao overload metodu, svaka ima posebno ime :/
-        //Viđe bi mi bilo smisleno ako bi bila neka manipulacija
+        //Neznam kako bi nazvao overload metodu, svaka ima posebno ime :/ te radim samo provjeru      
         public static bool jeProst(int a)
         {
             if (a <= 1) return false;

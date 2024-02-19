@@ -35,6 +35,7 @@ namespace zadaca_klase_17_2_2024
         }
 
         //mogao je i ovo biti overload da sam poslao char[]
+        //Također vjerojatno sam mogao koristiti char + 1 po ASCII tablici, te ovaj moj kod radi samo za HR abecedu
         public  static string sifriranjeStringa(string s)
         {
             string abeceda = "ABCČĆDĐEFGHIJKLMNOPRSŠTUVZŽ";
